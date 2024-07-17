@@ -22,7 +22,7 @@ function Header3() {
                 {/* haeder left part*/}
                 <div className="hdr-left-section">
                     <div className="logo-header">
-                        <div className="logo-header-inner logo-header-one">
+                        <div className="logo-header-inner logo-header-one ">
                             <NavLink to="/index">
                                 <ItodoImage src="images/Logo.png" alt="" />
                             </NavLink>

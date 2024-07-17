@@ -36,6 +36,9 @@ function Header1() {
                         width: "1000px",
                         height: "auto",
                         transform: "scale(2)",
+                        position:"relative",
+                        top:"-5px",
+                        left:"25px"
                       }}
                     />
                   </NavLink>
