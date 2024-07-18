@@ -1,4 +1,4 @@
-import ScrollToTop from "./app/elements/scroll-to-top";
+// import ScrollToTop from "./app/elements/scroll-to-top";
 import RootLayout from "./layouts/root-layout";
 import Loader from "./app/elements/loader";
 import { useState } from "react";

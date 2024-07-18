@@ -36,9 +36,9 @@ function Header1() {
                         width: "1000px",
                         height: "auto",
                         transform: "scale(2)",
-                        position:"relative",
-                        top:"-5px",
-                        left:"25px"
+                        position: "relative",
+                        top: "-5px",
+                        left: "25px",
                       }}
                     />
                   </NavLink>
@@ -62,7 +62,7 @@ function Header1() {
                 <div className="extra-cell">
                   <ul className="list-unstyled social-bx d-flex flex-wrap align-content-center">
                     <li>
-                      <a href="https://www.facebook.com/">
+                      <a href="https://web.facebook.com/profile.php?id=61561865430556">
                         <i className="feather-facebook" />{" "}
                       </a>
                     </li>
@@ -72,12 +72,12 @@ function Header1() {
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.linkedin.com/">
+                      <a href="https://www.linkedin.com/company/devrolin/">
                         <i className="feather-linkedin" />{" "}
                       </a>
                     </li>
                     <li>
-                      <a href="https://www.instagram.com/">
+                      <a href="https://www.instagram.com/dev.rolin/?hl=en">
                         <i className="feather-instagram" />{" "}
                       </a>
                     </li>

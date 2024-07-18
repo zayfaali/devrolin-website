@@ -36,7 +36,7 @@ function ContactUsPage() {
                             Contact Phone
                           </a>
                           <a href="#" className="sx-icon-bx-title">
-                            +55 (9900) 666 22
+                            +971 522 347 966
                           </a>
                         </div>
                       </div>
@@ -51,7 +51,7 @@ function ContactUsPage() {
                             Contact Mail
                           </a>
                           <a href="#" className="sx-icon-bx-title">
-                            info.kali @gmail.com
+                            support@devrolin.com
                           </a>
                         </div>
                       </div>
@@ -66,8 +66,7 @@ function ContactUsPage() {
                             Contact Location
                           </a>
                           <a href="#" className="sx-icon-bx-title">
-                            18/2, Topkhana Road, Australia. 27 Division St, New
-                            York, USA
+                            Al Abraj Streets, Business Bay, Dubai
                           </a>
                         </div>
                       </div>
@@ -161,7 +160,7 @@ function ContactUsPage() {
       {/* Contact us END */}
       <div className="gmap-outline map-grayscle">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6309.495304446196!2d-122.43885472228101!3d37.74906395235639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7e12a1d66d03%3A0xb8c905ae4e81369b!2sQ-Architecture!5e0!3m2!1sen!2sin!4v1623689156327!5m2!1sen!2sin"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.519758642402!2d55.274229899999995!3d25.1856887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f682d8a9468f7%3A0x5eb73dd46aa3b4f!2sMarasi%20Dr%20-%20Business%20Bay%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2s!4v1721295512832!5m2!1sen!2s"
           style={{ border: 0 }}
           allowFullScreen
           loading="lazy"

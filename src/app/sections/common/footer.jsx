@@ -55,7 +55,7 @@ function Footer() {
                     </div>
                     <div className="sx-f-call-section">
                       <span>Contact us 24/7</span>
-                      <a href="tel:+55(990)66622">+55 (990) 666 22</a>
+                      <a href="tel:++971522347966">+971 522 347 966</a>
                     </div>
                   </div>
                 </div>
@@ -116,8 +116,7 @@ function Footer() {
                         <i className="flaticon-phone" />
                       </div>
                       <div className="widget-info-detail">
-                        <a href="tel:+55(66633)2566">+ 55 ( 66633 ) 25 66</a>
-                        <a href="tel:+55(66633)2577">+ 55 ( 66633 ) 25 77</a>
+                        <a href="tel:+971522347966">+971 522 347 966</a>
                       </div>
                     </li>
                     <li>
