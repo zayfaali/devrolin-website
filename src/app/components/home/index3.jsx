@@ -18,6 +18,7 @@ function Home3Page() {
 
     return (
         <>
+        
             <SectionSlider3 />
             <SectionServices3 />
             <SectionAboutCompany1 />
