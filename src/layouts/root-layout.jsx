@@ -23,7 +23,7 @@ function RootLayout() {
 
                 <Footer />
                 {/* <!-- BUTTON TOP START --> */}
-                <button className="scroltop"><span className="fa fa-angle-up  relative" id="btn-vibrate"></span></button>
+                <button className="scroltop d-none"><span className="fa fa-angle-up  relative" id="btn-vibrate"></span></button>
             </div>
         </>
     )
