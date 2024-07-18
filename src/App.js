@@ -4,7 +4,6 @@ import Loader from "./app/elements/loader";
 import { useState } from "react";
 
 function App() {
-
   const [isLoading, setLoading] = useState(true);
 
   setTimeout(() => {
@@ -13,8 +12,8 @@ function App() {
 
   return (
     <>
-      { isLoading && <Loader /> }
-      <ScrollToTop />
+      {isLoading && <Loader />}
+      {/* <ScrollToTop /> */}
       <RootLayout />
     </>
   );
